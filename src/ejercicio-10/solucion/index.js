@@ -23,3 +23,4 @@ class Student extends Person {
 const student = new Student('Bob', 19, 12)
 
 student.introduce()
+
